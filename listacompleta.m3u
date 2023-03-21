@@ -193,10 +193,10 @@ http://ay32.aatvbox.club:8880/xzyc24m4401/Wd2NG3fTG2/29219
 http://ay32.aatvbox.club:8880/xzyc24m4401/Wd2NG3fTG2/52357
 #EXTINF:-1,ES:M+ Liga de Campeones 12
 http://ay32.aatvbox.club:8880/xzyc24m4401/Wd2NG3fTG2/52333
-#EXTINF:-1,ES:EUROSPORT 1 HD
-http://ay32.aatvbox.club:8880/xzyc24m4401/Wd2NG3fTG2/2564
-#EXTINF:-1,ES:EUROSPORT 2 HD
-http://ay32.aatvbox.club:8880/xzyc24m4401/Wd2NG3fTG2/2563
+#EXTINF:0 tvg-country="ES" tvg-logo="http://xtra.fireottplus.com:2052/images/5161fb17dfb2e3781efa7a2e0e74d101.png" group-title="Sport",4K EUROSPORT 1
+http://xtra.fireottplus.com:2052/017458648389/407609858756/151424?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://xtra.fireottplus.com:2052/images/e2fc589b1e039392b3dd59bb8f3a56c3.png" group-title="Sport",4K EUROSPORT 2
+http://xtra.fireottplus.com:2052/017458648389/407609858756/151427?checkedby:iptvcat.com
 #EXTINF:-1,ES:EUROSPORT 2 SD
 http://ay32.aatvbox.club:8880/xzyc24m4401/Wd2NG3fTG2/52332
 #EXTINF:-1,ES:La Liga BAR HD
